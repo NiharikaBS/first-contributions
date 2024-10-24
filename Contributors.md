@@ -3,6 +3,7 @@
 - Moro! I am Tommi
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
+- Hello, I am Niharika
 - Hein is here
 - Hello, I am Celine Mang! (https://github.com/celinemang )
 - Hello, I am Camilo Velez
